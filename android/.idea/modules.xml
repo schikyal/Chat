@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chat.iml" filepath="$PROJECT_DIR$/.idea/modules/Chat.iml" group="Chat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Chat/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/736041849/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/736041849/react-native-community_masked-view.iml" group="Chat/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1039552642/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1039552642/react-native-gesture-handler.iml" group="Chat/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-424922308/react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-424922308/react-native-permissions.iml" group="Chat/react-native-permissions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1926307737/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1926307737/react-native-safe-area-context.iml" group="Chat/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-789756609/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-789756609/react-native-screens.iml" group="Chat/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/630769944/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/630769944/react-native-vector-icons.iml" group="Chat/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>
